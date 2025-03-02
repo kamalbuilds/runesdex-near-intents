@@ -1,9 +1,9 @@
 export type SiteConfig = typeof siteConfig
 
 export const siteConfig = {
-  name: "Next.js",
+  name: "RunesDex Intents",
   description:
-    "Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.",
+    "RunesDex Intents is a platform for creating and executing voice-activated trading strategies on the RunesDex DEX.",
   mainNav: [
     {
       title: "Swap",
